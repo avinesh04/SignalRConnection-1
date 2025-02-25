@@ -1,0 +1,29 @@
+{
+  "name": "signalrconnection",
+  "version": "1.0.0",
+  "description": "This npm package will use to build connection between the client and server, and also having a hook for getting the live chat message.",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aviksingh04/SignalRConnection.git"
+  },
+  "keywords": [
+    "signal",
+    "r",
+    "socket",
+    "connection",
+    "react",
+    "native-native",
+    "signal",
+    "r"
+  ],
+  "author": "Avinesh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aviksingh04/SignalRConnection/issues"
+  },
+  "homepage": "https://github.com/aviksingh04/SignalRConnection#readme"
+}
